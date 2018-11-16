@@ -6,6 +6,7 @@
     <style type="text/css">
         background-color: #ff4d4d
     </style>
+<body bgcolor="#ff4d4d">
 <div style="text-align:left">
 <IMG src="Epcot.jpg" alt="Cameron Riles" width="200" height="300"> 
 </div>
@@ -19,8 +20,8 @@
     <p>As a member of Phi Beta Sigma Fraternity, Inc., Mr. Riles has a passion for serving his community and putting the needs of others above his own. He plans on attending Georgia Southern University for his graduate studies, where he will obtain his Masters in Sport Management. </p>
     <p>When he isn't working on bettering himself or his community, Cameron can often be found enjoying various sports, spending time with family and friends, watching beloved films from the Marvel Cinematic Universe, and writting anything from music to personal memoirs, or even short stories. </P>
  <h6> LinkedIN </h6>
-<p>  <A href = "www.linkedin.com/in/cameronriles">Click Here!</A>
-<table> 
+<p>  <A href = "www.linkedin.com/in/cameronriles">Click Here!</A> 
+<table border="1"> 
   <tr>
     <th>Top 3 Favorite MCU FIlms</th>
       </tr>
@@ -34,6 +35,8 @@
 <td>Avengers: Infinity War</td>
 </tr>
 </table>
-
+<audio controls>
+	<source src="Sunday Morning.mp3" type="audio/mpeg">
+	</audio>
+</body>
 </html>
-
